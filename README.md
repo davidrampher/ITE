@@ -18,5 +18,5 @@ Step 9 - Wait for your collaborator to review and approve your PR.
 Step 10: Once approved, merge the new branch into the main (master) branch.
 
 # Collaborator
-Jaipual Mohan
+Jaipual Mohan,
 David Anthony Junior Rampher
